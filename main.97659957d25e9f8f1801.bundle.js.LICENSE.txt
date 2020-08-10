@@ -67,7 +67,7 @@
 
 /*!
  * vuerd
- * @version 1.2.4 | Thu Jul 30 2020
+ * @version 1.2.5 | Mon Aug 10 2020
  * @author dineug <dineug2@gmail.com>
  * @license MIT
  */
